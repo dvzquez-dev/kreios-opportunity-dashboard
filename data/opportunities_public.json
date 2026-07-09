@@ -1,24 +1,27 @@
-[
-  {
-    "id": "sample-eu-space-sme-ai",
-    "title": "Sample SME AI/HPC for Space Engineering Call",
-    "source_name": "Sample",
-    "source_level": "EU",
-    "programme": "Example Programme",
-    "url": "https://example.invalid/call",
-    "status": "open",
-    "deadline": "2026-12-31",
-    "topics": [
-      "AI",
-      "HPC",
-      "space engineering",
-      "SME"
-    ],
-    "score_0_100": 63.72,
-    "priority": "blocked",
-    "state": "blocked",
-    "public_summary": "Potentially relevant to advanced engineering tools for space systems.",
-    "public_reason": "Good technical fit, but requires internal review for eligibility and scope alignment.",
-    "last_seen": "2026-07-09T00:00:00Z"
-  }
-]
+{
+  "generated_at": "2026-07-09T00:00:00Z",
+  "opportunities": [
+    {
+      "id": "sample-eu-space-sme-ai",
+      "title": "Sample SME AI/HPC for Space Engineering Call",
+      "source_name": "Sample",
+      "source_level": "EU",
+      "programme": "Example Programme",
+      "url": "https://example.invalid/call",
+      "status": "open",
+      "deadline": "2026-12-31",
+      "topics": [
+        "AI",
+        "HPC",
+        "space engineering",
+        "SME"
+      ],
+      "score_0_100": 63.72,
+      "priority": "blocked",
+      "state": "blocked",
+      "public_summary": "Potentially relevant to advanced engineering tools for space systems.",
+      "public_reason": "Good technical fit, but requires internal review for eligibility and scope alignment.",
+      "last_seen": "2026-07-09T00:00:00Z"
+    }
+  ]
+}
