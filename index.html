@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kreios Opportunity Radar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <p class="eyebrow">Funding Intelligence</p>
+    <h1>Kreios Opportunity Radar</h1>
+    <p>Vista pública sanitizada de oportunidades de financiación.</p>
+  </header>
+  <main>
+    <section class="toolbar">
+      <input id="search" placeholder="Filtrar por título, fuente o tema…">
+      <select id="priority">
+        <option value="">Todas</option>
+        <option value="priority_candidate">Prioritarias</option>
+        <option value="candidate">Candidatas</option>
+        <option value="human_review">Revisión</option>
+        <option value="watchlist">Watchlist</option>
+        <option value="blocked">Bloqueadas</option>
+      </select>
+    </section>
+    <section id="cards" class="cards"></section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
